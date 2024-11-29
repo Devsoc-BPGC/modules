@@ -1,8 +1,8 @@
 
-## **Assignment: Two or More Dice Game**
+## **Assignment: Stake Dice Game**
 
 ### **Objective:**
-Create a Flutter app that simulates a high-risk, high-reward dice game called **"Two or More"**. The app will allow users to place wagers and roll dice to win or lose coins based on specific game conditions.
+Create a Flutter app that simulates a high-risk, high-reward dice game.. The app will allow users to place wagers and roll dice to win or lose coins based on specific game conditions.
 
 ---
 
